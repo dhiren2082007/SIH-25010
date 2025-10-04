@@ -64,13 +64,13 @@ c:\Users\Dhiren D\Pictures\Screenshots\Screenshot 2025-10-04 131222.png</b></li>
 Analysis of the feasibility of the idea Feasibility: High, as similar systems (Kisan Suvidha, eNAM) exist but lack personalization/voice support.
 Potential challenges and risks Challenges: Data availability, connectivity issues, farmer adoption.
 Strategies for overcoming these challenges Mitigation Strategies: Offline features, partnerships with govt/NGOs, farmer training workshops.</li>
-<li></li>
-<li></li></ul>
+</ul>
 
 ## Impact and Benefits
-<h3>Potential impact on the target audience and Benefits of the solution (social, economic, environmental, etc.) **Social:** Empowers farmers with scientific, localized knowledge. - **Economic:** Increases yield by 15–25%, reduces input costs by 10–20%, improves income. - **Environmental:** Promotes sustainable practices, reduces chemical overuse.</h3>
-<ul><li></li>
-<li></li></ul>
+<h3><ul><li>
+Potential impact on the target audience and Benefits of the solution (social, economic, environmental, etc.) Social: Empowers farmers with scientific, localized knowledge. - Economic: Increases yield by 15–25%, reduces input costs by 10–20%, improves income. - Environmental: Promotes sustainable practices, reduces chemical overuse.</h3>
+</li></ul>
+
 
 ## Research and References
 <h3></h3>
